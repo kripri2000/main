@@ -1,0 +1,25 @@
+.navbar
+{
+    background-color: black;
+}
+.navbar-light .navbar-nav .nav-link
+{
+    color: white;
+    font-size: 16px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover
+{
+    text-decoration:underline;
+    /* border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    padding: 6px 0; */
+}
+.cart{
+    position: absolute;
+    top: -17px;
+    left: 4px;
+}
+.fa{
+    position: relative;
+}
